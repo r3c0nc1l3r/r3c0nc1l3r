@@ -29,6 +29,6 @@ Senior Software Engineer passionate about cloud-native technologies, WebRTC, and
 - AI infrastructure tooling
 - Kubernetes operators and controllers
 
-## 📫 How to reach me
+## 📫 Socials
 - 𝕏 [X](https://x.com/r3c0nc1l3r)
 
